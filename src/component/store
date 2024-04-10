@@ -1,0 +1,50 @@
+//  import PropsValidate from './component/day2/propsValidate';
+//  import{A,B} from './component/day3/exportimport';
+// import  {ChangeColor} from './component/day3/usestate';
+// import  {Myself} from './component/day3/usestate';
+// import  {Jsx} from './component/day3/usestate';
+// import {ImgChange} from './component/day3/imge_usestate';
+
+// import {RowList} from './component/day3/children';
+// import {Form} from './component/day3/nested'
+// import { ParentComponent } from './component/day3/p_usestateprops';
+// import { Counter } from './component/day4/counter';
+// import { CopyArray } from './component/day4/copyarrayspread';
+// import { UpdateArray } from './component/day4/updatearray';
+// import { MyComponent } from './component/day1/arrayReplace';
+// import { NestedComp } from './component/day4/nestedCom';
+// import { CounterEff } from './component/day5/counterUseEffect';
+
+
+
+
+ {/* Day 1
+     <MyComponent/>
+
+
+     {/* Day 2 */}
+     {/* <PropsValidate name="aditi" age={1}/>  */}
+
+     {/* Day 3 */}
+     {/* <A/>
+     <B/>
+     < ChangeColor/>
+      <Myself/>
+       <Jsx/>
+       <ImgChange/>
+     <ParentComponent/>
+     <RowList>
+      <p>Item 1</p>
+      <p>Item 2</p>
+      <p>Item3</p> */}
+    {/* </RowList>  */}
+  
+     {/* <Form/>   */}
+
+   {/* Day 4 */}
+   {/* <Counter/>
+   <UpdateArray/>
+<CopyArray/> */}
+{/* Day 5 */}
+{/* <CounterEff/>
+<NestedComp/> */}
